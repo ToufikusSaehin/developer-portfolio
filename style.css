@@ -59,3 +59,19 @@ h1 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-dev {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, purple);
+    border-image-slice: 1;
+}
+
+#baby-dev {
+    border-left: 7px solid;
+    border-image: linear-gradient(pink, red);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
