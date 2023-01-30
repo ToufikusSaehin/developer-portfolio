@@ -22,6 +22,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .link-button {
@@ -36,4 +37,10 @@ section {
 .top-bannar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.middle-bannar {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
